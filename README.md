@@ -39,11 +39,6 @@ Power BI connects to the cleaned SQL output tables, arranged in a star-schema, a
 
 ---
 
-## 🚀 Setup & Deployment
-
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/ktushar31/Sales-Data-Analysis-with-SQL-And-Power-BI.git
 
 
 
